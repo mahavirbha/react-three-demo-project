@@ -40,4 +40,12 @@ IMGGEN=
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 Output:
+Video URL : https://drive.google.com/file/d/1ih3voEA7hXsgrBShszOK8l1fiv_R3EjF/view?usp=sharing
+Snapshots:
+
+![alt text](<Screenshot 2024-07-28 155200.png>) 
+![alt text](<Screenshot 2024-07-28 155223.png>) 
+![alt text](<Screenshot 2024-07-28 155245.png>) 
+![alt text](<Screenshot 2024-07-28 155334.png>)
+
 <video controls src="ReactThree.mp4" title="Title"></video>

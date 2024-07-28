@@ -39,4 +39,5 @@ IMGGEN=
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
+Output:
 <video controls src="ReactThree - COMPRESS.mp4" title="Title"></video>
